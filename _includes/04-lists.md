@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+### Some of my favorite foods
+- Palabok
+- Soup dumplings
+- Fried chicken
+- Blue crabs
